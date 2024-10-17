@@ -1,4 +1,4 @@
-#EcoSnap 🌍♻️
+# EcoSnap 🌍♻️
 
 EcoSnap is a mobile application focused on sustainability, built with React Native and TypeScript. It helps users make eco-friendly decisions by scanning product barcodes or images to provide insights on recyclability, environmental impact, and health effects. Powered by AI, it delivers a sustainability score and eco-friendly alternatives for everyday products. EcoSnap promotes sustainable living with daily tips and an easy-to-use interface.
 
